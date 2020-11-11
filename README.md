@@ -1,2 +1,2 @@
-# stock-prediction-ia
-Repositório contendo os dados utilizados no treinamento do modelo de IA da aplicação de orientação de compra e venda de ativos
+# Orientação de compra e venda de ativos - Dados Treinamento
+Este repositório contém todos os arquivos utlizados no treinamento do modelo de NLP utilizado na construção na ferramenta Kalan ( Orientação de compra e venda de ações por meio de IA)
