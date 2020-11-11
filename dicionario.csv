@@ -1,0 +1,25 @@
+﻿doc;label
+Selic down;1
+Selic up;-1
+Selic stay;0
+Basileia down;-1
+Basileia up;1
+Basileia stay;1
+Bank profit;1
+Bank loss;-1
+Bank stay;0
+Rating Bank;0
+Rating Bank up;1
+Rating Bank down;-1
+Rating Bank stay;0
+Spread Bank;0
+Spread Bank up;1
+Spread Bank down;-1
+Spread Bank stay;0
+Default up;-1
+Default down;1
+Default stay;0
+Customer up;1
+Customer down;-1
+Customer stay;0
+;
